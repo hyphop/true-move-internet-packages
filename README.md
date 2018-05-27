@@ -11,4 +11,6 @@
 
 # local WEB UI 
 
-    http://192.168.8.1/html/home.html
+http://192.168.8.1/html/home.html
+
+[more...](/wiki/)
