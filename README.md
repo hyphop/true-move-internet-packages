@@ -13,4 +13,4 @@
 
 http://192.168.8.1/html/home.html
 
-[more...](/wiki/)
+[true-move-internet-packages/wiki](https://github.com/hyphop/true-move-internet-packages/wiki)
