@@ -1,4 +1,4 @@
-# TRUE MOVE / USSD 
+# TRUE MOVE / USSD ![TRUE-MOVE-H](https://topping.truemoveh.com/assets/topping/images/svg/icon_fb&true.png)
 
     *833# - MY NUMBER
     #123# - Balance
