@@ -3,6 +3,17 @@
     *833# - MY NUMBER
     #123# - Balance
     *900#  - check inet package
+    
+      Refill your credit: *123*top up number#
+      Balance check: #123#
+      Remaining data check: *900#
+      Show your number: *833# or dial 9303
+      Change Language: 9304
+      Extend Validity: *9344 (3 baht per call) Or buy 3, 6, 12 months.
+      Activate new SIM card: 9302  or #110#
+      Low cost call: 00600+Country Code+Area Code+Destination Number
+      First call: 006+Country Code+Area Code+Destination Number
+      Call Center: 1242
 
 # TRUE MOVE INTERNET PACKAGES
 
