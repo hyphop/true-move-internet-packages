@@ -27,6 +27,12 @@
 
 note: if true move price is X => real prices 1.07*X (with VAT=7%)
 
+### LAST
+
+* 900 * 8327 # - Continuous Super Internet Speed ​​4 Mbps 20GB - 30 day 650
+* 900 * 8326 # - Super Internet Speed ​​continuous 4 Mbps 7GB + Free internet TikTok |7 day 220 baht
+
+
 # local WEB UI
 
 http://192.168.8.1/html/home.html
