@@ -14,6 +14,16 @@
       Low cost call: 00600+Country Code+Area Code+Destination Number
       First call: 006+Country Code+Area Code+Destination Number
       Call Center: 1242
+      
+# 2022 packages
+
+    *900*8884# 7 days / 10Mbps => 353.10 Baht 
+    *900*3723# 30 days / 6Mbps => 909.50 Baht
+    *900*8898# 15G             => 426.93 Baht
+
++ https://www.true.th/truemoveh/site/topping/upgrade_options?package_id=589&priceplan_id=2185
++ https://www.true.th/truemoveh/site/topping/upgrade_options?package_id=587&priceplan_id=2175
++ https://www.true.th/truemoveh/site/topping/upgrade_options?package_id=625&priceplan_id=2425
 
 # TRUE MOVE INTERNET PACKAGES
 
